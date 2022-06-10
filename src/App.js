@@ -30,7 +30,7 @@ function App() {
             key={prato.id}
             nome={prato.nome}
             descricao={prato.descricao}
-            imagem={prato.image}
+            image={prato.image}
             preco={prato.preco}
           />))}
       </section>
